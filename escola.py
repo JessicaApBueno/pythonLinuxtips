@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Exibe relatório de crianças por atividade."""
-__version__ = "0.1.1"
+__version__ = "0.1.0"
 
 sala1 = ["Erick", "Natasha", "Luana", "Higor"]
 sala2 = ["Ludmila", "Vera", "Luan", "James"]
