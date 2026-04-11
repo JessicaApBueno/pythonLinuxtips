@@ -1,0 +1,17 @@
+2026-04-11 10:36:26,898 - logs.py - DEBUG - Iniciando o script...
+2026-04-11 10:36:26,899 - logs.py - INFO - Processamento de dados em andamento.
+2026-04-11 10:36:26,899 - logs.py - WARNING - O uso de memória está subindo.
+2026-04-11 10:36:26,899 - logs.py - ERROR - Falha ao conectar em um serviço externo.
+2026-04-11 10:36:26,899 - logs.py - CRITICAL - O sistema será interrompido!
+2026-04-11 10:36:26,900 - logs.py - ERROR - Erro matemático detectado: division by zero
+2026-04-11 10:37:54,945 - logs.py - DEBUG - Iniciando o script...
+2026-04-11 10:37:54,945 - logs.py - INFO - Processamento de dados em andamento.
+2026-04-11 10:37:54,945 - logs.py - WARNING - O uso de memória está subindo.
+2026-04-11 10:37:54,945 - logs.py - ERROR - Falha ao conectar em um serviço externo.
+2026-04-11 10:37:54,945 - logs.py - CRITICAL - O sistema será interrompido!
+2026-04-11 10:37:54,945 - logs.py - ERROR - Erro matemático detectado
+Traceback (most recent call last):
+  File "/home/jessica/MeusProjetos/LinuxtipsPython/./logs2.py", line 40, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
